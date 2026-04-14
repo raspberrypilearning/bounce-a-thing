@@ -35,5 +35,5 @@ function draw() {
 Run the project and check that the spark appears on the canvas.
 
 <div class="c-project-output">
-  <img src="images/step_2_output.svg" alt="Step 2 output showing a spark emoji on a midnight blue canvas.">
+  <img src="images/step_2_output.png" alt="Step 2 output showing a spark emoji on a midnight blue canvas.">
 </div>

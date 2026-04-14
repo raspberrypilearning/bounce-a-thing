@@ -36,5 +36,5 @@ line_highlights: 23-25
 Run the project and watch the spark bounce around the whole canvas.
 
 <div class="c-project-output">
-  <img src="images/step_5_output.svg" alt="Step 5 output showing the spark bouncing after reaching the top or bottom edge.">
+  <img src="images/step_5_output.png" alt="Step 5 output showing the spark bouncing after reaching the top or bottom edge.">
 </div>

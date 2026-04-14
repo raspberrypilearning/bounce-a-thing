@@ -43,5 +43,5 @@ function draw() {
 Run the project and watch the spark bounce off the left and right edges.
 
 <div class="c-project-output">
-  <img src="images/step_4_output.svg" alt="Step 4 output showing the spark bouncing from a side edge.">
+  <img src="images/step_4_output.png" alt="Step 4 output showing the spark bouncing from a side edge.">
 </div>
