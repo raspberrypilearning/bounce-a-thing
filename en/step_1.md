@@ -18,7 +18,7 @@ language: javascript
 filename: script.js
 line_numbers: true
 line_number_start: 1
-line_highlights: 1-11
+line_highlights:
 ---
 let sparkX = 300;
 let sparkY = 260;
@@ -43,6 +43,6 @@ Run the project and check that a canvas appears on the page.
 
 <div class="c-project-output">
 
-  ![Step 1 output showing the Bounce A Spark page with an empty canvas.](images/step_1_output.svg)
+  ![Step 1 output showing the Bounce A Spark page with an empty canvas.](images/step_1_output.png)
 
 </div>
