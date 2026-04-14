@@ -1,11 +1,11 @@
-# default-project-template
+# Bounce a Thing
 
-![default-project-template](banner.png)
+![Bounce a Thing](en/images/banner.svg)
 
-Find the project online at [projects.raspberrypi.org/en/projects/default-project-template](https://projects.raspberrypi.org/en/projects/default-project-template)
+Find the project online at [projects.raspberrypi.org/en/projects/bounce-a-thing](https://projects.raspberrypi.org/en/projects/bounce-a-thing)
 
 ## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/default-project-template/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/default-project-template/tree/master/en/solutions).
+For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/bounce-a-thing/tree/main/en/resources) and [en/solutions](https://github.com/raspberrypilearning/bounce-a-thing/tree/main/en/solutions).
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

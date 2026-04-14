@@ -1,14 +1,18 @@
-title: Project title in sentence case
-hero_image: images/banner.png
-description: A short description of the project
+title: Bounce a thing
+landing: true
+hero_image: images/banner.svg
+description: Make a spark bounce around the sky and ricochet off the edges of the sketch.
 listed: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Step title
+  - title: Start script.js
+  - title: Show the spark
     completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
+      - engaged
+  - title: Move the spark
+  - title: Bounce sideways
+    completion:
+      - internal
+  - title: Bounce up and down
     completion:
       - external

@@ -1,45 +1,46 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+<h2 class="c-project-heading--task">Start main.js</h2>
 
-A brief description - one or two sentences. 
+Build `script.js` so the project can open a canvas and store the spark position and speed.
 
---- print-only ---
+### Step 1
 
-![ALT TEXT](images/IMAGE.png)
+Open the blank `script.js` from the file list. This is where we will build the sketch.
 
---- /print-only ---
+### Step 2
 
---- no-print ---
+Add the starting variables for the spark. Then create `setup()` and an empty `draw()` function. In `setup()`, make a `400` by `400` canvas, send it into the `sketch-holder` div, and centre any text you draw.
 
-[Editor embed](https://editor.raspberrypi.org/en/embed/viewer/project-slug)
+<div class="c-project-code">
 
---- /no-print ---
+--- code ---
+---
+language: javascript
+filename: script.js
+line_numbers: true
+line_number_start: 1
+line_highlights:
+---
+let sparkX = 300;
+let sparkY = 260;
+let sparkSpeedX = 4;
+let sparkSpeedY = -5;
 
---- no-print ---
+function setup() {
+  const canvas = createCanvas(400, 400);
+  canvas.parent("sketch-holder");
+  textAlign(CENTER, CENTER);
+}
 
-Video embed
+function draw() {
+}
+--- /code ---
 
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
-<div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+<h2 class="c-project-heading--task">Test</h2>
 
-### You will need:
-- a
-- b
-- c
+Run the project and check that the page shows a square sketch area under the instructions.
+
+<div class="c-project-output">
+  <img src="images/step_1_output.svg" alt="Step 1 output showing the Spark Bounce title, page text, and an empty night-sky sketch area.">
+</div>

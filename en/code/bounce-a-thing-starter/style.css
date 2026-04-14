@@ -1,0 +1,7 @@
+body {
+  min-height: 100vh;
+  background:
+    linear-gradient(180deg, midnightblue 0%, darkslateblue 55%, mediumslateblue 100%);
+  color: white;
+  font-family: Arial, sans-serif;
+}
