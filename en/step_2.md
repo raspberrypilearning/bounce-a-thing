@@ -1,14 +1,14 @@
 <h2 class="c-project-heading--task">Draw the Spark</h2>
 
-Draw the spark on a midnight blue background.
+Draw the spark on the canvas.
 
 ### Step 1
 
-Replace the empty `draw()` function so it paints the background and draws the spark.
+The background is ready, but the spark is not visible yet. Add code to draw the spark.
 
 ### Step 2
 
-Use `background("midnightblue")` to colour the canvas. Then set a text size and draw the `✨` emoji at `sparkX` and `sparkY`.
+Set a text size and draw the `✨` emoji at `sparkX` and `sparkY`.
 
 <div class="c-project-code">
 
@@ -18,7 +18,7 @@ language: javascript
 filename: script.js
 line_numbers: true
 line_number_start: 12
-line_highlights: 13-16
+line_highlights: 15-16
 ---
 function draw() {
   background("midnightblue");
