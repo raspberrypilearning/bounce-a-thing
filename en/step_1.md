@@ -44,6 +44,6 @@ Run the project and check that the canvas appears as a dark blue square on the p
 
 <div class="c-project-output">
 
-  ![Step 1 output showing the Bounce A Spark page with a dark blue canvas.](images/step_1_output.png)
+  ![The Bounce A Spark page with a dark blue canvas.](images/step1.png)
 
 </div>

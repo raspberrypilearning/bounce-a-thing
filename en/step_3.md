@@ -39,5 +39,5 @@ function draw() {
 Run the project and watch the spark move across the canvas.
 
 <div class="c-project-output">
-  <img src="images/step_3_output.png" alt="Step 3 output showing the spark moving across the canvas.">
+  <img src="images/step3.gif" alt="Step 3 output showing the spark moving across the canvas.">
 </div>

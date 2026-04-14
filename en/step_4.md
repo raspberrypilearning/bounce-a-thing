@@ -1,14 +1,14 @@
-<h2 class="c-project-heading--task">Bounce Sideways</h2>
+<h2 class="c-project-heading--task">Bounce of top and bottom</h2>
 
-Make the spark bounce away when it reaches the left or right edge.
+Make the spark bounce off the top and bottom edges.
 
 ### Step 1
 
-The spark is moving, but it will disappear once it leaves the canvas. Add a check so it bounces back from the side walls.
+The spark is moving, but it will disappear once it leaves the canvas. Add a check so it bounces back from the top wall.
 
 ### Step 2
 
-Check whether `sparkX` has reached either side of the canvas. If it has, reverse `sparkSpeedX`.
+Check whether `sparkY` has reached the top or bottom of the canvas. If it has, reverse `sparkSpeedY`.
 
 <div class="c-project-code">
 
@@ -27,21 +27,23 @@ function draw() {
   sparkX = sparkX + sparkSpeedX;
   sparkY = sparkY + sparkSpeedY;
 
-  if (sparkX < 20 || sparkX > width - 20) {
-    sparkSpeedX *= -1;
+  if (sparkY < 20 || sparkY > height - 20) {
+    sparkSpeedY *= -1;
   }
 
   textSize(44);
   text("✨", sparkX, sparkY);
 }
+ 
+
 --- /code ---
 
 </div>
 
 <h2 class="c-project-heading--task">Test</h2>
 
-Run the project and watch the spark bounce off the left and right edges.
+Run the project and watch the spark bounce off the top edge.
 
 <div class="c-project-output">
-  <img src="images/step_4_output.png" alt="Step 4 output showing the spark bouncing from a side edge.">
+  <img src="images/step4.gif" alt="The spark bouncing after reaching the top edge.">
 </div>
