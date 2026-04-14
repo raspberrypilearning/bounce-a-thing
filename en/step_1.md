@@ -42,5 +42,7 @@ function draw() {
 Run the project and check that the page shows a square sketch area under the instructions.
 
 <div class="c-project-output">
-  <img src="images/step_1_output.png" alt="Step 1 output showing the Spark Bounce title, page text, and an empty night-sky sketch area.">
+
+  ![Step 1 output showing the Spark Bounce title, page text, and an empty night-sky sketch area.](images/step_1_output.png)
+
 </div>
