@@ -5,7 +5,7 @@ let sparkSpeedY = -5;
 let orbX = 300;
 
 function setup() {
-  createCanvas(600, 600);
+  createCanvas(500, 500);
   textAlign(CENTER, CENTER);
 }
 
