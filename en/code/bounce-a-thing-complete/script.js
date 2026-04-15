@@ -16,12 +16,12 @@ function draw() {
   sparkX += sparkSpeedX;
   sparkY += sparkSpeedY;
 
-  if (sparkX < 20 || sparkX > width - 20) {
-    sparkSpeedX *= -1;
-  }
-
   if (sparkY < 20 || sparkY > height - 20) {
     sparkSpeedY *= -1;
+  }
+  
+  if (sparkX < 20 || sparkX > width - 20) {
+    sparkSpeedX *= -1;
   }
 
   textSize(44);
