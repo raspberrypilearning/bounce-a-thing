@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Bounce off sides</h2>
 
-Make the spark bounce away when it reaches the left or right edge.
-
-### Step 1
-
-The spark already bounces from the top wall. Now add the same idea for the sides.
+Make the spark bounce when it reaches the left or right edge.
 
 ### Step 2
 

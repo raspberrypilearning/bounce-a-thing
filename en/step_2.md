@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Draw the Spark</h2>
 
-Draw the spark on the canvas.
-
-### Step 1
-
-The background is ready, but the spark is not visible yet. Add code to draw the spark.
+Add code to draw the spark.
 
 ### Step 2
 

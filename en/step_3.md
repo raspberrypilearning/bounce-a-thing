@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Move the Spark</h2>
 
-Use the draw loop to move the spark across the sketch.
-
-### Step 1
-
-The spark is visible, but it stays still. Change `sparkX` and `sparkY` inside `draw()` so the spark moves every frame.
+Change `sparkX` and `sparkY` inside `draw()` so the spark moves every frame.
 
 ### Step 2
 

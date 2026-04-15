@@ -1,10 +1,6 @@
 <h2 class="c-project-heading--task">Bounce of top and bottom</h2>
 
-Make the spark bounce off the top and bottom edges.
-
-### Step 1
-
-The spark is moving, but it will disappear once it leaves the canvas. Add a check so it bounces back from the top wall.
+Add a check so the spark bounces off the top wall.
 
 ### Step 2
 
