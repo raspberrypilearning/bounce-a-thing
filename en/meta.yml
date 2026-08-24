@@ -2,7 +2,7 @@ title: Bounce a thing
 landing: true
 hero_image: images/banner.svg
 description: Make a spark bounce around the sky and ricochet off the edges of the sketch.
-listed: true
+listed: false
 pdf: false
 steps:
   - title: Start script.js
