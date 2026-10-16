@@ -2,8 +2,6 @@
 
 Add code to draw the spark.
 
-### Step 2
-
 Set a text size and draw the `✨` emoji at `sparkX` and `sparkY`.
 
 <div class="c-project-code">
