@@ -8,7 +8,7 @@ Open the blank `script.js` from the file list. This is where we will build the s
 
 ### Step 2
 
-Add the starting variables for the spark. Then create `setup()` and a `draw()` function. In `setup()`, make a `600` by `600` canvas and centre any text you draw. In `draw()`, colour the canvas `midnightblue`.
+Choose the starting position, speed, and direction of the spark by adding its starting variables. Then create `setup()` and a `draw()` function. In `setup()`, make a `600` by `600` canvas and use `textAlign()` to centre the spark emoji you will draw later. In `draw()`, colour the canvas `midnightblue`.
 
 <div class="c-project-code">
 

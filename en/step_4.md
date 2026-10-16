@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Bounce off the top and bottom</h2>
 
-Add a check so that the spark bounces off the top wall.
+Add a check so that the spark bounces off the top and bottom walls.
 
 ### Step 2
 
