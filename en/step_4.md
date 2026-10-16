@@ -2,8 +2,6 @@
 
 Add a check so that the spark bounces off the top and bottom walls.
 
-### Step 2
-
 Check whether `sparkY` has reached the top or bottom of the canvas. If it has, reverse `sparkSpeedY`.
 
 <div class="c-project-code">

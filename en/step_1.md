@@ -2,11 +2,7 @@
 
 Build `script.js` so you can open a canvas, colour the background, and store the spark position and speed.
 
-### Step 1
-
 Open the blank `script.js` from the file list. This is where we will build the sketch.
-
-### Step 2
 
 Choose the starting position, speed, and direction of the spark by adding its starting variables. Then create `setup()` and a `draw()` function. In `setup()`, make a `600` by `600` canvas and use `textAlign()` to centre the spark emoji you will draw later. In `draw()`, colour the canvas `midnightblue`.
 

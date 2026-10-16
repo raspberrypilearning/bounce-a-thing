@@ -2,8 +2,6 @@
 
 Make the spark bounce when it reaches the left or right edge.
 
-### Step 2
-
 Check whether `sparkX` has reached either side of the canvas. If it has, reverse `sparkSpeedX`.
 
 <div class="c-project-code">
