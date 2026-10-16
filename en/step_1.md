@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Start script.js</h2>
 
-Build `script.js` so the project can open a canvas, colour the background, and store the spark position and speed.
+Build `script.js` so you can open a canvas, colour the background, and store the spark position and speed.
 
 ### Step 1
 

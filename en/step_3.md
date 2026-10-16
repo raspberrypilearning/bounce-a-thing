@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Move the Spark</h2>
+<h2 class="c-project-heading--task">Move the spark</h2>
 
 Change `sparkX` and `sparkY` inside `draw()` so the spark moves every frame.
 

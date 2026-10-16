@@ -1,6 +1,6 @@
 ## What you will make
 
-A spark that bounces around the screen.
+You'll create a spark that bounces around the screen.
 
 Watch the spark move around the canvas and bounce off the edges.
 

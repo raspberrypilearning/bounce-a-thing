@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Draw the Spark</h2>
+<h2 class="c-project-heading--task">Draw the spark</h2>
 
 Add code to draw the spark.
 

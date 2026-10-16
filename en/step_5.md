@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Bounce off sides</h2>
+<h2 class="c-project-heading--task">Bounce off the sides</h2>
 
 Make the spark bounce when it reaches the left or right edge.
 
