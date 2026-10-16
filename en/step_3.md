@@ -2,6 +2,8 @@
 
 Change `sparkX` and `sparkY` inside `draw()` so the spark moves every frame. `draw()` runs many times a second, and each run draws a new frame. Moving the spark a little in each frame makes it look like it is moving smoothly.
 
+### Step 2
+
 Store the mouse position in `orbX`, then add the spark speeds to the spark position.
 
 <div class="c-project-code">
